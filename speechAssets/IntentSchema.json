@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "PeopleIntent",
+      "slots": [
+        {
+          "name": "People",
+          "type": "LIST_OF_PEOPLE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }

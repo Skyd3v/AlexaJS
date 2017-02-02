@@ -1,0 +1,20 @@
+PeopleIntent I need information over {People}
+PeopleIntent I want to know about {People}
+PeopleIntent I want info over {People}
+PeopleIntent Can you give me information over {People}
+PeopleIntent Can I have information over {People}
+PeopleIntent Give me some knowledge over {People}
+PeopleIntent Supply information for {People}
+PeopleIntent I want information for {People}
+PeopleIntent Who is {People}
+PeopleIntent Can you please give me information for {People}
+PeopleIntent I want to know general information for {People}
+PeopleIntent I am thinking about {People}
+PeopleIntent I am thinking about knowing information over {People}
+PeopleIntent I was thinking about {People}
+PeopleIntent What do you know of {People}
+PeopleIntent I was thinking about getting a {People}
+PeopleIntent Tell me about {People}
+PeopleIntent Information please for {People}
+PeopleIntent Can you let me know more about {People}
+PeopleIntent Tell me about  {People} please
