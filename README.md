@@ -50,22 +50,43 @@ jeff weiner
 ##Different ways of interacting with Alexa
 
 ----> I need information over {People}
+***
 ----->I want to know about {People}
+***
 ----> I want info over {People}
+***
 ----> Can you give me information over {People}
+***
 ----> Can I have information over {People}
+***
 ----> Give me some knowledge over {People}
+***
 ----> Supply information for {People}
+***
 ----> I want information for {People}
+***
 ----> Who is {People}
+***
 ----> Can you please give me information for {People}
+***
 ----> I want to know general information for {People}
+
+***
 ----> I am thinking about {People}
+***
 ----> I am thinking about knowing information over {People}
+***
 ----> I was thinking about {People}
+***
 ----> What do you know of {People}
+***
 ----> I was thinking about getting a {People}
+***
 ----> Tell me about {People}
+***
 ----> Information please for {People}
+***
 ----> Can you let me know more about {People}
+***
 ----> Tell me about  {People} please
+***
