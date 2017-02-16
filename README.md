@@ -1,4 +1,4 @@
-This is a project I ---->i----> as a final assignment for the Bloc bootcamp.
+This is a project I did as a final assignment for the Bloc bootcamp.
 
 This Alexa app, takes information from a person that requires notes over celebrities/icons.
 
