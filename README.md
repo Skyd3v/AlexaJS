@@ -5,46 +5,128 @@ This Alexa app, takes information from a person that requires notes over celebri
 ## Working icons/celebrities
 
 george bush
+
+
 obama
+
+
 michael jordan
+
+
 charles barclay
+
+
 bill clinton
+
+
 cristiano ronaldo
+
+
 romario
+
+
 rivaldo
+
+
 bruce willis
+
+
 stalone
+
+
 dennis rodman
+
+
 gary lineker
+
+
 robert de niro
+
+
 elon musk
+
+
 john cena
+
+
 randy orton
+
+
 pele
+
+
 maradona
+
+
 larry page
+
+
 enrique englesias
+
+
 mayweather
+
+
 big show
+
+
 gretzky
+
+
 bill gates
+
+
 steve jobs
+
+
 super mario
+
+
 link
+
+
 ace
+
+
 zoro
+
+
 luffy
+
+
 rick grimes
+
+
 lori grimes
+
+
 clark kent
+
+
 merkel
+
+
 donald duck
+
+
 mickey mouse
+
+
 walt disney
+
+
 simon cowell
+
+
 michael jackson
+
+
 alex kerp
+
+
 tom persson
+
+
 jeff weiner
 
 ##Different ways of interacting with Alexa
